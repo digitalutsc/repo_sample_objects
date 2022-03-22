@@ -1,0 +1,55 @@
+
+"Entradas
+1. Rollo de primavera
+Huevos y verduras
+2. Ensalada china
+3. Ensalada de gambas
+3A. Ensalada de brotes de soja
+4. Wan Tun frito
+5. Pan de gambas
+SA, Alas de pollo frito
+20. Huevos Fu Yon
+21. Huevos revueltos con jamón
+22. Huevos revueltos con gambas Grang Dong
+23. Chop Suey de verduras
+24. Brotes de soja salteados
+25. Brotes de bambú y setas salteadas.
+Sopas
+Pescados y mariscos
+6. Sopa de huevos revueltos
+7. Sopa de pollo con champiñones
+8. Sopa de Wan Tun
+9. Sopa de maiz con pollo
+10. Sopa agripicante
+10A. Sopa de aletas de tiburón
+26. Langostinos con salsa picante
+27. Langostinos con salsa agridulce
+28. Colita de Fénix frita
+29. Gambas con guisantes
+30. Gambas con bambú y setas
+31. Chop Suey de gambas
+32. Pescado agridulce
+33. La familia feliz
+Arroz
+11. Arroz blanco
+12. Arroz frito con tres delicias
+13. Arroz frito con gambas
+14. Arroz frito con huevos
+15. Arroz con curry y ternera
+16. Arroz con curry y pollo
+17. Tallarines fritos con tres delicias
+17A. Mi-Fen fritos con tres delicias
+18. Tallarines fritos con ternera
+18A. Mi-Fen fritos con ternera
+19. Tallarines fritos con gambas
+19A. Mi-Fen fritos con gambas
+Ternera
+34. Chop Suey de ternera
+35. Ternera con salsa curry
+36. Ternera con cebollas
+37. Ternera con pimientos verdes
+38. Ternera con champiñón
+39. Ternera con brotes de bambú y setas
+40. Ternera con salsa picante
+41. Ternera con salsa de ostras
+"
